@@ -51,6 +51,8 @@ context "associations" do
     it { expect(@event).to have_many(:users) }
   end
 
+  
+
 end
 
 
